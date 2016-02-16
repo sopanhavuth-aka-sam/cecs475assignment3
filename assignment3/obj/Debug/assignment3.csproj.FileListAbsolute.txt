@@ -4,3 +4,9 @@ C:\Users\sam-sopanha\documents\visual studio 2015\Projects\assignment3\assignmen
 C:\Users\sam-sopanha\documents\visual studio 2015\Projects\assignment3\assignment3\obj\Debug\assignment3.csprojResolveAssemblyReference.cache
 C:\Users\sam-sopanha\documents\visual studio 2015\Projects\assignment3\assignment3\obj\Debug\assignment3.exe
 C:\Users\sam-sopanha\documents\visual studio 2015\Projects\assignment3\assignment3\obj\Debug\assignment3.pdb
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\obj\Debug\assignment3.pdb
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\obj\Debug\assignment3.csprojResolveAssemblyReference.cache

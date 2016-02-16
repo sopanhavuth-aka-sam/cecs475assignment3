@@ -1,1020 +1,137 @@
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	24	6	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	24	6	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	79	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	145	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	79	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	145	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	79	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	145	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	145	8	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	80	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	80	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	141	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	80	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	440	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	440	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	23	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	141	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	23	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	141	9	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	77	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	77	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	77	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	425	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	425	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	22	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	140	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	140	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	140	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	140	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	22	10	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	78	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	78	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	432	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	432	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	78	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	139	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	139	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	139	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	139	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	21	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	21	11	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	436	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	436	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	78	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	78	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	78	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	138	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	138	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	138	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	20	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	20	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	138	12	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	422	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	422	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	75	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	75	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	75	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	19	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	19	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	136	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	136	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	136	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	136	13	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	430	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	430	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	75	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	75	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	75	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	20	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	20	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	138	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	138	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	138	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	138	14	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	413	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	413	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	71	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	71	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	71	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Retail		30	19	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Retail		30	19	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 1	Technology		160	135	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Technology		160	135	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Technology		160	135	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Technology		160	135	15	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Commodity		500	419	16	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Commodity		500	419	16	
-Written on ->2/16/2016 9:15:44 AM	Broker 2	Banking		90	67	16	
-Written on ->2/16/2016 9:15:44 AM	Broker 3	Banking		90	67	16	
-Written on ->2/16/2016 9:15:44 AM	Broker 4	Banking		90	67	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	20	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	20	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	132	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	132	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	132	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	132	16	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	407	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	407	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	63	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	63	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	63	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	134	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	134	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	134	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	134	17	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	410	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	410	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	63	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	63	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	63	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	130	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	130	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	130	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	396	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	396	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	130	18	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	63	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	63	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	63	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	17	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	17	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	404	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	404	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	125	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	125	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	125	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	125	19	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	59	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	59	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	59	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	408	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	408	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	126	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	126	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	126	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	126	20	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	58	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	58	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	58	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	414	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	414	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	121	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	121	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	121	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	121	21	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	54	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	54	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	54	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	402	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	402	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	121	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	121	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	121	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	121	22	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	57	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	57	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	57	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	386	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	386	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	125	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	125	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	125	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	125	23	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	60	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	60	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	60	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	392	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	392	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	125	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	125	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	125	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	125	24	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	62	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	62	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	62	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	381	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	381	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	124	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	124	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	124	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	124	25	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	61	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	61	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	61	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	385	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	385	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	128	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	128	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	128	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	128	26	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	64	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	64	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	64	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	371	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	371	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	126	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	126	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	126	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	126	27	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	62	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	62	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	62	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	373	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	373	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	130	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	130	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	130	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	130	28	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	65	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	65	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	65	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	17	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	17	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	357	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	357	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	133	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	133	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	133	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	133	29	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	67	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	67	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	67	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	18	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	363	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	363	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	136	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	136	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	136	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	69	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	136	30	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	69	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	69	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	19	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	19	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	366	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	366	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	71	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	138	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	71	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	138	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	20	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	138	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	71	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	138	31	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	20	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	351	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	351	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	69	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	69	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	134	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	18	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	134	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	134	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	134	32	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	69	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	337	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	337	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Technology		160	136	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Technology		160	136	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Technology		160	136	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Technology		160	136	33	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Banking		90	65	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 3	Banking		90	65	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Banking		90	65	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 1	Retail		30	16	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Retail		30	16	34	
-Written on ->2/16/2016 9:15:45 AM	Broker 2	Commodity		500	320	35	
-Written on ->2/16/2016 9:15:45 AM	Broker 4	Commodity		500	320	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	137	34	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	137	34	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	137	34	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	66	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	137	34	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	66	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	66	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	16	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	16	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	325	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	325	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	133	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	133	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	133	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	63	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	133	35	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	63	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	63	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	14	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	14	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	305	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	305	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	133	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	133	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	63	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	133	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	63	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	133	36	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	14	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	63	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	14	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	308	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	308	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	60	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	129	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	60	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	12	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	60	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	12	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	293	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	129	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	293	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	129	37	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	56	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	56	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	56	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	10	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	274	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	10	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	124	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	274	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	124	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	124	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	124	38	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	52	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	52	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	52	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	8	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	257	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	8	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	257	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	119	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	119	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	119	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	119	39	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	53	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	53	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	53	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	9	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	9	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	276	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	276	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	123	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	123	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	123	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	123	40	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	53	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	53	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	53	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	9	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	9	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	277	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	277	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	123	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	123	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	123	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	123	41	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	49	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	49	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	49	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	7	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	7	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	260	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	260	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	118	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	118	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	118	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	118	42	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	50	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	50	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	7	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	50	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	266	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	7	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	266	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	117	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	117	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	117	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	117	43	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	46	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	46	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	5	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	46	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	5	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	247	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	247	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	112	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	112	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	112	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	112	44	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	46	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	46	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	250	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	46	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	250	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	5	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	5	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	116	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	116	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	116	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	116	45	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	43	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	235	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	43	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	235	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	3	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	43	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	3	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	120	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	120	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	120	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	120	46	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	236	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	43	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	236	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	43	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	3	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	43	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	3	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	120	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	120	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	120	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	120	47	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	219	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	219	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	1	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	39	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	1	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	39	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	39	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	119	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	119	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	119	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	119	48	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	224	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	224	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	1	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	1	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	35	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	35	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	35	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	114	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	114	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	114	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	114	49	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	226	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	226	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	1	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	1	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	35	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	35	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	35	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	114	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	114	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	114	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	114	50	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	229	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	1	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	229	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	1	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	35	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	35	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	35	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	118	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	118	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	118	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	118	51	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Commodity		500	214	54	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Retail		30	-1	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Commodity		500	214	54	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Retail		30	-1	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Banking		90	35	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Banking		90	35	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Banking		90	35	53	
-Written on ->2/16/2016 9:15:46 AM	Broker 1	Technology		160	118	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 2	Technology		160	118	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 3	Technology		160	118	52	
-Written on ->2/16/2016 9:15:46 AM	Broker 4	Technology		160	118	52	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	196	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	196	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-3	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-3	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	31	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	31	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	31	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	121	53	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	121	53	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	121	53	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	121	53	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	200	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	200	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-3	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-3	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	31	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	31	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	31	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	120	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	120	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	120	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	120	54	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	186	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-5	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	186	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-5	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	27	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	27	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	27	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	115	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	115	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	115	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	115	55	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	188	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-5	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	188	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-5	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	27	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	27	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	27	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	119	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	119	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	119	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	119	56	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	172	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	172	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-7	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-7	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	23	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	23	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	23	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	118	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	118	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	118	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	118	57	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	178	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	178	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-7	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-7	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	23	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	23	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	23	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	118	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	118	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	118	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	118	58	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	160	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	160	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-9	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-9	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	19	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	19	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	19	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	117	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	117	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	117	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	117	59	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	164	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	164	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-9	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-9	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	22	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	22	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	22	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	121	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	121	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	121	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	121	60	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	150	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	150	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-11	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-11	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	22	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	22	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	22	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	119	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	119	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	119	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	119	61	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-13	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	133	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-13	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	133	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	18	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	18	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	18	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	123	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	123	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	123	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	123	62	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-15	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	117	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-15	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	117	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	17	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	17	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	17	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	122	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	122	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	122	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	122	63	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-15	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-15	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	13	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	13	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	13	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	120	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	120	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	120	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	120	64	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-15	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-15	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	125	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	125	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	13	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	13	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	13	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	119	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	119	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	119	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	119	65	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-17	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-17	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	110	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	110	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	16	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	16	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	16	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	123	66	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-17	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-17	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	117	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	117	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	16	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	16	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	16	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	126	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	126	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	126	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	126	67	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	99	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-19	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	99	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-19	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	12	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	12	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	12	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	125	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	125	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	125	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	125	68	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	104	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	104	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-19	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-19	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	15	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	15	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	15	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	129	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	129	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	129	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	129	69	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-21	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	91	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-21	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	91	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	11	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	11	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	11	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	127	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	127	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	127	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	127	70	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-21	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Retail		30	-21	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	93	73	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Commodity		500	93	73	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Banking		90	11	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Banking		90	11	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Banking		90	11	72	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Technology		160	131	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Technology		160	131	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 3	Technology		160	131	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 4	Technology		160	131	71	
-Written on ->2/16/2016 9:15:47 AM	Broker 2	Commodity		500	77	74	
-Written on ->2/16/2016 9:15:47 AM	Broker 1	Retail		30	-23	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	77	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-23	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	10	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	10	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	10	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	130	72	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	130	72	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	130	72	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	130	72	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	84	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	84	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-23	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-23	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	6	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	6	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	6	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	133	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	133	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	133	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	133	73	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	87	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-23	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	87	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-23	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	6	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	6	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	6	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	132	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	132	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	132	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	132	74	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	91	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	91	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-23	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-23	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	9	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	9	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	9	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	130	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	130	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	130	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	130	75	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-25	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	78	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-25	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	78	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	9	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	9	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	9	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	133	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	133	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	133	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	133	76	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-25	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-25	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	61	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	61	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	5	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	5	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	5	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	137	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	137	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	137	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	137	77	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-25	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-25	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	66	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	66	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	4	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	4	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	4	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	140	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	140	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	140	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	140	78	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-27	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-27	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	53	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	53	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	0	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	0	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	0	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	138	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	138	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	138	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	138	79	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-29	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-29	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	42	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	42	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	0	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	0	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	0	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	142	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	142	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	142	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	142	80	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-31	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	27	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-31	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	27	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	0	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	0	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	0	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	140	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	140	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	140	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	140	81	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-31	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	34	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-31	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	34	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	0	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	0	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	0	83	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Technology		160	143	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Technology		160	143	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Technology		160	143	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Technology		160	143	82	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-32	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	24	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-32	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	24	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-4	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-4	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-4	84	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	29	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-32	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	29	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-32	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-1	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-1	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-1	85	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	16	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-34	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	16	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-34	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-1	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-1	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-1	86	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	25	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	25	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-34	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-34	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-5	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-5	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-5	87	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	10	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	10	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-36	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-36	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-6	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-6	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-6	88	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-36	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	17	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-36	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	17	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-10	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-10	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-10	89	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-38	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-38	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	6	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	6	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-10	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-10	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-10	90	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-40	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	-8	92	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-40	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	-8	92	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Banking		90	-7	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 3	Banking		90	-7	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Banking		90	-7	91	
-Written on ->2/16/2016 9:15:48 AM	Broker 1	Retail		30	-40	92	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Retail		30	-40	92	
-Written on ->2/16/2016 9:15:48 AM	Broker 2	Commodity		500	0	93	
-Written on ->2/16/2016 9:15:48 AM	Broker 4	Commodity		500	0	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-7	92	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-7	92	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-7	92	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-40	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	9	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-40	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	9	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-11	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-11	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-11	93	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-40	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	15	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-40	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	15	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-15	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-15	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-15	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-42	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-42	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	3	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	3	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	141	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	141	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	141	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	141	94	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-19	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-19	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-19	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	13	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-41	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	13	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-41	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	142	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	142	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	142	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	142	95	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-16	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-16	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-16	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	-1	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	-1	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-43	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-43	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	142	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	142	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	142	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	142	96	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-16	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-16	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-16	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	7	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	7	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-43	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-43	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	137	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	137	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	137	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	137	97	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-20	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-20	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-20	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-44	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	-3	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-44	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	-3	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	136	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	136	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-21	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	136	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-21	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	136	98	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-21	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-44	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	3	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-44	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	3	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-25	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	131	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-25	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	131	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-25	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	131	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	131	99	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-46	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-46	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	-9	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	-9	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-25	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-25	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	131	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-25	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	131	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	131	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	131	100	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-45	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	1	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-45	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	1	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-22	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	135	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-22	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	135	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-22	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	135	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	135	101	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	8	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-45	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	8	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-45	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-22	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-22	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-22	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	135	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	135	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	135	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	135	102	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	-3	105	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-47	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	-3	105	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-47	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Banking		90	-23	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Banking		90	-23	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Banking		90	-23	104	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Technology		160	134	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Technology		160	134	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 3	Technology		160	134	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Technology		160	134	103	
-Written on ->2/16/2016 9:15:49 AM	Broker 2	Commodity		500	-13	106	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Commodity		500	-13	106	
-Written on ->2/16/2016 9:15:49 AM	Broker 1	Retail		30	-48	105	
-Written on ->2/16/2016 9:15:49 AM	Broker 4	Retail		30	-48	105	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		554	8	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		554	8	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		556	9	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		556	9	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		573	10	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		573	10	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Banking		100	12	
+Written on ->2/16/2016 10:03:24 AM	Broker 3	Banking		100	12	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		587	11	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		587	11	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		583	12	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		583	12	
+Written on ->2/16/2016 10:03:24 AM	Broker 1	Technology		176	14	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Technology		176	14	
+Written on ->2/16/2016 10:03:24 AM	Broker 3	Technology		176	14	
+Written on ->2/16/2016 10:03:24 AM	Broker 2	Commodity		595	13	
+Written on ->2/16/2016 10:03:24 AM	Broker 4	Commodity		595	13	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Banking		100	15	
+Written on ->2/16/2016 10:03:25 AM	Broker 3	Banking		100	15	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		603	14	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Banking		100	15	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		587	15	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		587	15	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		601	16	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		601	16	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		605	17	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		605	17	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		605	18	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		605	18	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		621	19	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Technology		178	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Technology		178	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 3	Technology		178	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Technology		178	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		633	20	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		633	20	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		621	21	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		621	21	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		620	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		620	22	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		634	23	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		634	23	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Retail		23	28	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Retail		23	28	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		638	24	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		638	24	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Retail		24	29	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Retail		24	29	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Banking		80	29	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		639	25	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		639	25	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Retail		22	30	
+Written on ->2/16/2016 10:03:25 AM	Broker 3	Banking		76	30	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Banking		76	30	
+Written on ->2/16/2016 10:03:25 AM	Broker 2	Commodity		630	26	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		630	26	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Retail		21	31	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Retail		21	31	
+Written on ->2/16/2016 10:03:25 AM	Broker 3	Banking		78	31	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Banking		78	31	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Commodity		636	27	
+Written on ->2/16/2016 10:03:25 AM	Broker 1	Retail		19	32	
+Written on ->2/16/2016 10:03:25 AM	Broker 4	Retail		19	32	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		78	32	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		632	28	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		20	33	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		20	33	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		76	33	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		625	29	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		20	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Banking		72	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 3	Banking		72	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		72	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		20	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		20	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Commodity		635	31	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		635	31	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Banking		69	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 3	Banking		69	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		69	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		19	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		19	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Commodity		644	32	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		644	32	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Banking		69	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 3	Banking		69	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		69	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		629	33	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		17	38	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		17	38	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		70	37	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Commodity		610	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		610	34	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		17	39	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		17	39	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		69	38	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Commodity		621	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		621	35	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		18	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		18	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		608	36	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Banking		68	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 3	Banking		68	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		68	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		625	37	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		16	42	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		16	42	
+Written on ->2/16/2016 10:03:26 AM	Broker 2	Commodity		613	38	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		613	38	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		14	43	
+Written on ->2/16/2016 10:03:26 AM	Broker 3	Banking		70	42	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		631	39	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		70	42	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		14	44	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		14	44	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		624	40	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		71	43	
+Written on ->2/16/2016 10:03:26 AM	Broker 1	Retail		13	45	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Retail		13	45	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Commodity		607	41	
+Written on ->2/16/2016 10:03:26 AM	Broker 4	Banking		70	44	
+Written on ->2/16/2016 10:03:27 AM	Broker 1	Retail		11	46	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Retail		11	46	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Commodity		620	42	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Banking		67	45	
+Written on ->2/16/2016 10:03:27 AM	Broker 1	Retail		12	47	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Retail		12	47	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Commodity		604	43	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Banking		70	46	
+Written on ->2/16/2016 10:03:27 AM	Broker 1	Retail		12	48	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Retail		12	48	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Banking		71	47	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Commodity		618	44	
+Written on ->2/16/2016 10:03:27 AM	Broker 1	Retail		12	49	
+Written on ->2/16/2016 10:03:27 AM	Broker 4	Retail		12	49	
+Written on ->2/16/2016 10:03:27 AM	Broker 2	Banking		73	48	
+Written on ->2/16/2016 10:03:27 AM	Broker 2	Commodity		630	45	

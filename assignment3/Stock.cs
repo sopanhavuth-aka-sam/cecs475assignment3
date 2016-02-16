@@ -64,6 +64,10 @@ namespace assignment3
          }
       }
 
+      public void KillThread () {
+         this.thread.Abort();
+      }
+
       //start event
       protected virtual void startEvent(StockNotificationEventArgs e)
       {
