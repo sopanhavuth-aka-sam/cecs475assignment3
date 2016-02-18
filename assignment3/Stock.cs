@@ -64,6 +64,7 @@ namespace assignment3
          }
       }
 
+      //Kill this object thread
       public void KillThread () {
          this.thread.Abort();
       }

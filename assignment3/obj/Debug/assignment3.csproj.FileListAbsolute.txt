@@ -10,3 +10,9 @@ C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\obj\
 C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\bin\Debug\assignment3.exe
 C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\bin\Debug\assignment3.pdb
 C:\Users\Cmonte\Desktop\CECS 475\Assignments\cecs475assignment3\assignment3\obj\Debug\assignment3.csprojResolveAssemblyReference.cache
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\obj\Debug\assignment3.pdb
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\sam-sopanha\Documents\GitHub\cecs475assignment3\assignment3\obj\Debug\assignment3.csprojResolveAssemblyReference.cache

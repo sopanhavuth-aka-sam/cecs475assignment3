@@ -37,7 +37,7 @@ namespace assignment3
          b4.AddStock(stock3);
          b4.AddStock(stock4);
 
-         System.Threading.Thread.Sleep(3000);
+         System.Threading.Thread.Sleep(2000);
          stock1.KillThread();
          stock2.KillThread();
          stock3.KillThread();
